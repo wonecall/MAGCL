@@ -9,9 +9,9 @@ The code has been tested running under Python 3.6.5. The required packages are a
 Data
 -----------------
 `python data_preprocessing.py `
->`tips` 
->> Dataset: [Amazon Product Review dataset](http://jmcauley.ucsd.edu/data/amazon/links.html)/Digital Music
->> generate `data.pkl` and `Digital_Music.csv`
+tips 
+  * Dataset: [Amazon Product Review dataset](http://jmcauley.ucsd.edu/data/amazon/links.html)/Digital Music
+  * generate `data.pkl` and `Digital_Music.csv`
 
 
 
