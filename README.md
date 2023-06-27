@@ -10,4 +10,5 @@ Examples to run MAGCL
 -----------------
 python MAGCL.py 
 >`tips` 
->>Amazon dataset  [我的博客](http://blog.csdn.net/guodongxiaren)  
+>> [Amazon dataset]([http://blog.csdn.net/guodongxiaren](http://jmcauley.ucsd.edu/data/amazon/links.html)http://jmcauley.ucsd.edu/data/amazon/links.html)
+>> 
