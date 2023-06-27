@@ -10,5 +10,5 @@ Examples to run MAGCL
 -----------------
 python MAGCL.py 
 >`tips` 
->> [Amazon dataset](http://jmcauley.ucsd.edu/data/amazon/links.html)
->> 
+>>Dataset: [Amazon Product Review dataset](http://jmcauley.ucsd.edu/data/amazon/links.html)/Digital Music
+>> data preprocess
