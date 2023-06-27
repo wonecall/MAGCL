@@ -11,6 +11,6 @@ The code has been tested running under Python 3.6.5. The required packages are a
 
 Examples to run MAGCL
 -----------------
-python MAGCL.py
-tips
-Gowalla dataset
+python MAGCL.py 
+>`tips` 
+>>Amazon dataset 
