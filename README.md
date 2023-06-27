@@ -8,11 +8,11 @@ The code has been tested running under Python 3.6.5. The required packages are a
 
 Data
 -----------------
-`python data_preprocessing.py ` 
+`python data/data_preprocessing.py ` 
   * Dataset: [Amazon Product Review dataset](http://jmcauley.ucsd.edu/data/amazon/links.html)/Digital Music
   * generate `data.pkl` and `Digital_Music.csv`
 
 Run MAGCL
 -----------------
-`python MAGCL.py ` 
+`python model/MAGCL.py ` 
   * model type: MAGCL-dec-5
