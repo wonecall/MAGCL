@@ -6,9 +6,13 @@ The code has been tested running under Python 3.6.5. The required packages are a
 * scipy == 1.5.2
 * sentence-transformers == 0.4.1.2
 
-Examples to run MAGCL
+Data
 -----------------
-python MAGCL.py 
+`python data_preprocessing.py `
 >`tips` 
 >>Dataset: [Amazon Product Review dataset](http://jmcauley.ucsd.edu/data/amazon/links.html)/Digital Music
 >> data preprocess
+
+
+Examples to run MAGCL
+-----------------
