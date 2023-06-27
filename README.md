@@ -10,9 +10,9 @@ Data
 -----------------
 `python data_preprocessing.py `
 >`tips` 
->>Dataset: [Amazon Product Review dataset](http://jmcauley.ucsd.edu/data/amazon/links.html)/Digital Music
->> data preprocess
+>> Dataset: [Amazon Product Review dataset](http://jmcauley.ucsd.edu/data/amazon/links.html)/Digital Music
+>> generate `data.pkl` and `Digital_Music.csv`
 
 
-Examples to run MAGCL
+Run MAGCL
 -----------------
