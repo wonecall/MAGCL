@@ -10,6 +10,7 @@ Data
 -----------------
 `python data/data_preprocessing.py ` 
   * Dataset: [Amazon Product Review dataset](http://jmcauley.ucsd.edu/data/amazon/links.html)/Digital Music
+  * Download S-BERT model [all-MiniLM-L6-v2 ](https://huggingface.co/sentence-transformers)
   * generate `data.pkl` and `Digital_Music.csv`
 
 Run MAGCL
